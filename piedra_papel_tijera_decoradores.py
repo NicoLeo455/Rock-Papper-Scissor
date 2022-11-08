@@ -53,7 +53,7 @@ dict_computer = read_data()
 turn_computer = dict_computer.get(random.randint(1,3))
 print(turn_computer)
  
-
+ 
 def run():
 
     os.system("cls")
